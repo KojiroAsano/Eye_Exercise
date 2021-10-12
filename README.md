@@ -3,7 +3,7 @@
 <img src="EyesExercise.png" width='300'/>
 
 ## Description:
-  <p>This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week8.
+  <p>This is assignment from **Professional Certificate in Coding: Full Stack Development with MERN** Week8.
   This program consists of javascript, html, and img files.
   The eyes follow the mouse movement.</p>
 
