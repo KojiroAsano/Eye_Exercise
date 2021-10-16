@@ -24,4 +24,4 @@
   The update is not expected.
   
 ## License information: 
-  <p>The most of the program is coded and contrubuted by MIT. If you use the part of this code in your program and show it to public, please include the name of ***MIT***.</p>
+ The most of the program is coded and contrubuted by MIT. If you use the part of this code in your program and show it to public, please include the name of ***MIT***.
