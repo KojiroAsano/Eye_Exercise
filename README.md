@@ -1,9 +1,9 @@
-# Eye_Exercise-Week-8-
+# Eye_Exercise
 
 <img src="EyesExercise.png" width='300'/>
 
 ## Description:
-  This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week8.
+  
   This program consists of javascript, html, and img files.
   The eyes follow the mouse movement.
 
@@ -24,4 +24,4 @@
   The update is not expected.
   
 ## License information: 
- The most of the program is coded and contrubuted by MIT. If you use the part of this code in your program and show it to public, please include the name of ***MIT***.
+ If you use the part of this code in your program and show it to public, please include the name of ***MIT***.
