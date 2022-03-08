@@ -15,7 +15,7 @@
   2. Click **index.html** and run on the Web browser.
   
 ## Usage:
-[Live app](https://kojiroasano.github.io/Eye_Exercise-Week-8-/)
+[Live app](https://kojiroasano.github.io/Eye_Exercise/)
   <p>If successfully installed and run on the Web browser, the eyes appear on center of the browser screen, and the eyes follow the cursor movement.</p>
   
 ## Support:
