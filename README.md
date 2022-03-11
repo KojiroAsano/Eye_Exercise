@@ -1,6 +1,6 @@
 # Eye_Exercise
 
-<img src="EyesExercise.png" width='300'/>
+<img src="EyesExercise.png" width='800'/>
 
 ## Description:
   
